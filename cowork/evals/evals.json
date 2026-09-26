@@ -1,0 +1,19 @@
+{
+  "skill_name": "impeccable-taste",
+  "evals": [
+    {
+      "id": 1,
+      "name": "personal-habit-app",
+      "prompt": "Build me a web app for my own use: a daily habit tracker. I add habits, tick them off each day, and see the last 4 weeks as a streak grid. Keep data in localStorage. One self-contained index.html I can open in a browser. I want it to look tasteful, not like a generic AI app.",
+      "expected_output": "A working single-file HTML app in plain HTML/CSS/JS (no framework), restrained motion, no decorative imagery or hero, no em-dashes, no overused fonts, passes impeccable's detector.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "thai-landing-page",
+      "prompt": "Make a landing page for a YouTube channel about practical AI tools for Thai office workers. Bilingual Thai and English. It should feel premium and not AI-generated. One self-contained index.html.",
+      "expected_output": "A single-file landing page with a Thai-capable font, Thai-safe line heights, no negative tracking on Thai, light and dark themes, reduced-motion support, no em-dashes, passes impeccable's detector.",
+      "files": []
+    }
+  ]
+}

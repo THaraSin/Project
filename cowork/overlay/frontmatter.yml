@@ -1,0 +1,6 @@
+name: impeccable-taste
+description: "Design, build, review and polish frontend interfaces so they look intentional instead of AI-generated. Combines impeccable's full design workflow (init, shape, critique, audit, polish, layout, typeset, colorize, bolder, quieter, distill, delight, animate, adapt, clarify, harden, optimize, onboard, extract, document, live) with taste-skill's anti-slop rules (design read, variance, motion and density dials, typography and color bans, em-dash ban, pre-flight checks). Use it whenever the user builds or changes any web UI: HTML pages and web apps, personal tools, landing pages, portfolios, dashboards, forms, settings, onboarding, empty states, components, design systems or tokens, or says a design looks generic, bland, cheap, cluttered or too loud, or wants it more tasteful, premium or polished. Also covers UX review, accessibility, responsive layout, motion, UX copy, and Thai or bilingual typography. Not for backend-only or non-UI work."
+license: Apache-2.0 (impeccable) and MIT (taste-skill); see LICENSES.md
+metadata:
+  impeccable-version: "{{IMPECCABLE_VERSION}}"
+  taste-source: "Leonxlnx/taste-skill design-taste-frontend"

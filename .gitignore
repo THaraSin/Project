@@ -1,3 +1,7 @@
 # Impeccable engine binary: platform-specific (~16 MB). The skill launcher
 # downloads and checksum-verifies it from GitHub releases on first run.
 .claude/skills/impeccable/scripts/bin/
+
+# Unpacked cowork build output; dist/impeccable-taste.zip is the deliverable.
+cowork/dist/impeccable-taste/
+cowork/dist/*.skill
